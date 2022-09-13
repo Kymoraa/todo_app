@@ -1,3 +1,3 @@
 # todo_app
 
-To include Readme details </br>
+To-Do List Application in Flutter using Firebase </br>
